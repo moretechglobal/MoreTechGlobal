@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm MoreTech Global</h1>
 <h3 align="center">We are a team of passionate engineers and creative professionals dedicated to crafting bespoke digital solutions.</h3>
 
-- 🔭 We are currently working on [morefood](morefood.se)
+- 🔭 We are currently working on [morefood](https://morefood.se)
 
-- 🔭 We are currently working on [merkoll](merkoll.com)
+- 🔭 We are currently working on [merkoll](https://merkoll.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/moretechglobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moretechglobal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@moretechglobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@moretechglobal" height="30" width="40" /></a>
+<a href="https://fb.com/moretechglobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moretechglobal" height="30" width="40" /></a>
+<a href="https://instagram.com/moretechglobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moretechglobal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/moretechglobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moretechglobal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
